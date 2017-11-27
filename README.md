@@ -1,2 +1,3 @@
 # hellow-world
 just about fun...
+i am here to learn about hoe the github works on open sourse so this is my fist experience om github so iam very much pleased to say that this experience is very great to me.
